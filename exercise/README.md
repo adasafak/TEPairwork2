@@ -17,8 +17,10 @@ Create a new class called `Pizza.java` with the following requirements.
 |------|------|--------|--------|
 | crustType | String | x | x |
 | size | String | x | x |
-| toppings | String array | x | x |
+| toppings | String array | x | x | 
 | price | double | x |  |
+
+> NOTE: The toppings array should be filled with the word "none" to start
 
 #### Static constants
 
